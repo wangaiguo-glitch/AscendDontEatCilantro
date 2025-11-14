@@ -16,7 +16,7 @@ from utils import logger
 from utils.config import parse_args
 from utils.metrics import non_max_suppression, scale_coords, xyxy2xywh
 from utils.utils import set_seed 
-from voice import broadcast_warning
+from voice.voice import broadcast_warning
 
 def get_parser_infer(parents=None):
     parser = argparse.ArgumentParser(description="Infer", parents=[parents] if parents else [])
