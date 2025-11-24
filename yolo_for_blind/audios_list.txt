@@ -1,0 +1,67 @@
+'sign',检测到标志牌
+'red_light',检测到红灯，请注意
+'green_light',检测到绿灯，请通行
+'blind_road', 检测到盲道
+'crosswalk', 检测到人行横道
+'car',汽车
+'truck',卡车
+'pole',杆子
+'tree',树
+'warning_column',警示柱
+'bicycle',自行车
+'person',行人
+'dog',狗
+'fire_hydrant',消防栓
+'bus',公交车
+'motorcycle',摩托车
+'reflective_cone',反光锥
+'ashcan',垃圾桶
+'tricycle',三轮车
+'roadblock',路障
+
+'close',离您较近
+'detect',检测到
+'left',左前方
+'right',右前方
+'ahead',正前方
+'on_your',在您的
+
+'park', 公园内
+'road', 马路上
+'neighbourhood', 居民区内
+'marketplace', 市场内
+'pedestrian_street', 步行街上
+'public_running_track', 市民跑道上
+'bridge', 桥上
+'parking_lot', 停车场里
+'footbridge', 天桥上
+'stairway', 楼梯上
+
+'clear_and_wide_path', 宽阔的道路
+'narrow_path', 狭窄的道路
+'crowded_path', 拥挤的道路
+'complex_intersection_or_crossing', 复杂的路口
+
+'very_safe_smooth_walking', 障碍物较少，容易通行
+'generally_safe_minor_obstacles', 有些许障碍物，较容易通行
+'need_caution_noticeable_obstacles', 通行有明显障碍，请小心行进
+'dangerous_immediate_obstacles_ahead', 路况危险，障碍物正在靠近
+
+'no_moving_objects_detected', 移动路障较少
+'slow_moving_objects_in_distance', 有些许缓慢移动的障碍物
+'fast_moving_objects_approaching', 有快速移动的障碍物
+'immediate_collision_risk_detected', 有障碍物正在快速靠近
+
+'flat_and_smooth_surface_easy_to_walk', 平坦，起伏较小
+'slightly_uneven_but_generally_safe', 部分凹凸不平，有些许起伏
+'rough_terrain_need_to_be_cautious', 崎岖，请小心通行
+'stairs_or_significant_elevation_changes', 起伏较大，前方有楼梯或高坡
+
+'you_are_at', 您正处于
+'ahead2', 前方是
+'here2', 这里
+'in_your_activity_area', 您的活动范围内
+'ground2', 地面
+'please_stay_safe', 请注意安全
+
+'attention', 请注意

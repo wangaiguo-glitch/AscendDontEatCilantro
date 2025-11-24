@@ -1,0 +1,14 @@
+data:
+  dataset_name: wotr
+
+  train_set: /home/ma-user/work/hejunhao/WOTR-YOLO/train.txt
+  val_set: /home/ma-user/work/hejunhao/WOTR-YOLO/val.txt
+  test_set: /home/ma-user/work/hejunhao/WOTR-YOLO/test.txt
+
+  nc: 20
+
+  # class names
+  names: [ 'car','truck','pole','tree','crosswalk','warning_column','bicycle','person','dog','sign','red_light','fire_hydrant', 'bus', 'motorcycle', 'reflective_cone', 'green_light', 'ashcan', 'blind_road','tricycle', 'roadblock' ]
+
+  train_transforms: []
+  test_transforms: []
